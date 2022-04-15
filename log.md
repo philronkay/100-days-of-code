@@ -11,6 +11,18 @@
 
 
 
+### Day 1: April 15, 2022
+
+**Today's Progress**: worked on Jupytet lab, revised Python dictionaries, so far, so good!
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+
+
+
 ### Day : April , 2022
 
 **Today's Progress**: 
@@ -19,6 +31,93 @@
 
 **Link(s) to work**: 
 
+### Day : April , 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day : April , 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day : April , 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day : April , 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day : April , 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day : April , 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day : April , 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day : April , 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day : April , 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day : April , 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day : April , 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
 
 ### Day 1: June 27, Monday
 
@@ -29,101 +128,3 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
-### Day : April , 2022
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-
